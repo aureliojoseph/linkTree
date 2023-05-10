@@ -1,11 +1,1 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M8 11.75C10.0711 11.75 11.75 10.0711 11.75 8C11.75 5.92893 10.0711 4.25 8 4.25C5.92893 4.25 4.25 5.92893 4.25 8C4.25 10.0711 5.92893 11.75 8 11.75Z" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M8 2.25V1" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M3.93105 3.93127L3.0498 3.05002" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M2.25 8H1" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M3.93105 12.0688L3.0498 12.95" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M8 13.75V15" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12.0688 12.0688L12.9501 12.95" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M13.75 8H15" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12.0688 3.93127L12.9501 3.05002" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#f8f9fa" viewBox="0 0 256 256"><path d="M116,32V16a12,12,0,0,1,24,0V32a12,12,0,0,1-24,0Zm80,96a68,68,0,1,1-68-68A68.07,68.07,0,0,1,196,128Zm-24,0a44,44,0,1,0-44,44A44.05,44.05,0,0,0,172,128ZM51.51,68.49a12,12,0,1,0,17-17l-12-12a12,12,0,0,0-17,17Zm0,119-12,12a12,12,0,0,0,17,17l12-12a12,12,0,1,0-17-17ZM196,72a12,12,0,0,0,8.49-3.51l12-12a12,12,0,0,0-17-17l-12,12A12,12,0,0,0,196,72Zm8.49,115.51a12,12,0,0,0-17,17l12,12a12,12,0,0,0,17-17ZM44,128a12,12,0,0,0-12-12H16a12,12,0,0,0,0,24H32A12,12,0,0,0,44,128Zm84,84a12,12,0,0,0-12,12v16a12,12,0,0,0,24,0V224A12,12,0,0,0,128,212Zm112-96H224a12,12,0,0,0,0,24h16a12,12,0,0,0,0-24Z"></path></svg>

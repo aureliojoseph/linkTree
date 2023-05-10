@@ -12,24 +12,26 @@
       href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap"
       rel="stylesheet"
     />
-    <title>Aurelio Borges &mdash; Frontend Developer</title>
+    <title>Aurelio Borges &mdash; Frontend Software Developer</title>
   </head>
   <body>
     <div class="container">
       <div class="profile">
-        <img src="./assets/profile.jpeg" alt="profile photo of Aurelio" />
+        <img src="./assets/profile.jpg" alt="profile photo of Aurelio" />
         <p>@aureliojoseph</p>
       </div>
 
-      <div class="switch" onclick="toggleMode()">
-        <button></button>
-        <span></span>
+      <div class="switch">
+        <button class="switch-btn" onclick="toggleMode()"></button>
+        <button id="lang-btn" class="translate-btn"></button>
       </div>
 
-      <div class="links">
+      <div>
         <ul>
           <li>
             <a
+              class="primary-link translate"
+              data-translation-key="posts"
               href="https://www.linkedin.com/in/aurelioaborges/recent-activity/shares/"
               rel="noopener"
               target="_blank"
@@ -38,7 +40,9 @@
           </li>
           <li>
             <a
-              href="https://aureliojoseph.github.io/landing-page-2.0_eng"
+              class="primary-link translate"
+              data-translation-key="portfolio"
+              href="https://aureliojoseph.github.io/my-work/"
               rel="noopener"
               target="_blank"
               >View my Work
@@ -46,7 +50,9 @@
           </li>
           <li>
             <a
-              href="https://aureliojoseph.github.io/landing-page-2.0_eng/#contact"
+              class="contact-link translate"
+              data-translation-key="contact"
+              href="https://aureliojoseph.github.io/my-work/#contact"
               rel="noopener"
               target="_blank"
               >Get in Touch
@@ -58,24 +64,28 @@
       <div class="social-links">
         <ul>
           <a
+            class="icon-link"
             href="https://www.linkedin.com/in/aurelioaborges"
             rel="noopener"
             target="_blank"
             ><ion-icon name="logo-linkedin"></ion-icon>
           </a>
           <a
+            class="icon-link"
             href="https://github.com/aureliojoseph"
             rel="noopener"
             target="_blank"
             ><ion-icon name="logo-github"></ion-icon>
           </a>
           <a
+            class="icon-link"
             href="https://www.instagram.com/aureliojoseph"
             rel="noopener"
             target="_blank"
             ><ion-icon name="logo-instagram"></ion-icon>
           </a>
           <a
+            class="icon-link"
             href="https://wa.me/5562981447999"
             rel="noopener"
             target="_blank"
